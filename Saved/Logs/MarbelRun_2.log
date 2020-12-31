@@ -1,0 +1,1194 @@
+﻿Log file open, 12/31/20 03:18:56
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MarbelRun
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.270079
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:        Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz, GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-21.48.57:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.30-21.48.57:138][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-21.48.57:138][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-21.48.57:144][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.30-21.48.57:144][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.30-21.48.57:145][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.30-21.48.57:146][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.30-21.48.57:146][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.30-21.48.57:146][  0]LogHAL: Display: Platform has ~ 8 GB [8546361344 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.30-21.48.57:146][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.30-21.48.57:146][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.30-21.48.57:146][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.30-21.48.57:147][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.30-21.48.57:148][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.30-21.48.57:148][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.30-21.48.57:148][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.30-21.48.57:148][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.30-21.48.57:148][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-21.48.57:148][  0]LogInit: Computer: DESKTOP-PD4S702
+[2020.12.30-21.48.57:148][  0]LogInit: User: manas
+[2020.12.30-21.48.57:148][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.30-21.48.57:148][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.30-21.48.57:148][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2020.12.30-21.48.57:148][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.30-21.48.57:148][  0]LogMemory: Process Physical Memory: 133.48 MB used, 133.48 MB peak
+[2020.12.30-21.48.57:148][  0]LogMemory: Process Virtual Memory: 117.53 MB used, 117.53 MB peak
+[2020.12.30-21.48.57:148][  0]LogMemory: Physical Memory: 4656.76 MB used,  3493.69 MB free, 8150.45 MB total
+[2020.12.30-21.48.57:148][  0]LogMemory: Virtual Memory: 134214520.00 MB used,  3209.96 MB free, 134217728.00 MB total
+[2020.12.30-21.48.57:155][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.30-21.48.57:205][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.30-21.48.57:206][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.30-21.48.57:206][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.30-21.48.57:213][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.30-21.48.57:451][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.30-21.48.57:480][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.30-21.48.57:504][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.30-21.48.57:504][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.30-21.48.57:679][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.30-21.48.57:679][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.30-21.48.57:679][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.30-21.48.57:679][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.30-21.48.57:806][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2020.12.30-21.48.57:806][  0]LogD3D11RHI:       2007/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.30-21.48.57:808][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.30-21.48.57:808][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.30-21.48.57:808][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.30-21.48.57:813][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.30-21.48.57:813][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2020.12.30-21.48.57:813][  0]LogWindows: EnumDisplayDevices:
+[2020.12.30-21.48.57:813][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2020.12.30-21.48.57:814][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2020.12.30-21.48.57:814][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2020.12.30-21.48.57:814][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.12.30-21.48.57:814][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2020.12.30-21.48.57:814][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2020.12.30-21.48.57:814][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2020.12.30-21.48.57:814][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2020.12.30-21.48.57:916][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.12.30-21.48.57:917][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.30-21.48.57:938][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.30-21.48.57:940][  0]LogRHI: GeForceNow SDK initialized: 1
+[2020.12.30-21.48.58:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.30-21.48.58:357][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.30-21.48.58:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.30-21.48.58:384][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.30-21.48.58:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.30-21.48.58:408][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.30-21.48.58:419][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.30-21.48.58:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.30-21.48.58:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.30-21.48.58:452][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.30-21.48.58:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.30-21.48.58:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.30-21.48.58:495][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.30-21.48.58:506][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.30-21.48.58:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.30-21.48.58:528][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.30-21.48.58:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.30-21.48.58:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.30-21.48.58:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.30-21.48.58:568][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.30-21.48.58:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.30-21.48.58:590][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.30-21.48.58:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.30-21.48.58:601][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.30-21.48.58:610][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.30-21.48.58:682][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.30-21.48.58:682][  0]LogShaderCompilers: Guid format shader working directory is 28 characters bigger than the processId version (A:/games/MarbelRun/Intermediate/Shaders/WorkingDirectory/1900/).
+[2020.12.30-21.48.58:683][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/manas/AppData/Local/Temp/UnrealShaderWorkingDir/5DD50703435654EC744952AB3146DD75/'.
+[2020.12.30-21.48.58:683][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.30-21.48.58:683][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.30-21.48.59:631][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.30-21.48.59:710][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/manas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.30-21.48.59:710][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/manas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.30-21.48.59:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file A:/games/MarbelRun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.30-21.48.59:710][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.30-21.48.59:710][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file A:/games/MarbelRun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.30-21.48.59:710][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.30-21.48.59:725][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.30-21.48.59:725][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.30-21.48.59:725][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.30-21.48.59:738][  0]LogDerivedDataCache: Speed tests for C:/Users/manas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2020.12.30-21.48.59:738][  0]LogDerivedDataCache: Display: Performance to C:/Users/manas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=205.43MBs, RandomWriteSpeed=109.76MBs. Assigned SpeedClass 'Local'
+[2020.12.30-21.48.59:739][  0]LogDerivedDataCache: Using Local data cache path C:/Users/manas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.30-21.48.59:739][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.30-21.48.59:739][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.30-21.48.59:800][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.30-21.48.59:819][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.30-21.48.59:876][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2020.12.30-21.49.00:180][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.30-21.49.00:180][  0]LogInit: Active device profile: [0000026C267A3D00][0000026C24C603C0 49] Windows
+[2020.12.30-21.49.00:180][  0]LogInit: Profiles: [0000026C267A3D00][0000026C24C603C0 49] Windows, [0000026C26768400][0000026C24C68540 49] WindowsNoEditor, [0000026C267A0400][0000026C24C6C6C0 49] WindowsServer, [0000026C2676B900][0000026C0B59C840 49] WindowsClient, [0000026C267A3A00][0000026C0B5A09C0 49] IOS, [0000026C26768800][0000026C0B5A4B40 49] iPadAir, [0000026C267A0700][0000026C0B5A8CC0 49] iPadAir2, [0000026C26729800][0000026C0B5B0F80 49] IPadPro, [0000026C26729900][0000026C0B5ACFC0 49] iPadAir3, [0000026C267A3E00][0000026C0B5B5140 49] iPadAir4, [0000026C26728A00][0000026C0B5B92C0 49] iPadMini2, [0000026C267A0800][0000026C0B5BD440 49] iPadMini3, [0000026C2672A300][0000026C0B5C15C0 49] iPadMini4, [0000026C267A3600][0000026C24C65700 49] iPadMini5, [0000026C2676A600][0000026C0B5C9940 49] iPhone6, [0000026C2676A500][0000026C0B5C5980 49] iPodTouch6, [0000026C2672BB00][0000026C0B5D5C00 49] iPhone7, [0000026C2672BC00][0000026C0B5CDC40 49] iPodTouch7, [0000026C2676AF00][0000026C0B5D8100 49] iPhone5S, [0000026C26729600][0000026C0B5DC280 49] iPhone6Plus, [0000026C26769B00][0000026C0B5E0400 49] iPhone6S, [0000026C2672B100][0000026C0B5E4580 49] iPhone6SPlus, [0000026C2676AC00][0000026C0B5E8700 49] iPhone7Plus, [0000026C26729700][0000026C26F18880 49] iPhoneSE, [0000026C26769700][0000026C26F1CA00 49] iPhone8, [0000026C26729100][0000026C26F20B80 49] iPhone8Plus, [0000026C2676A700][0000026C26F24D00 49] iPhoneX, [0000026C26728200][0000026C26F28E80 49] iPhoneXS, [0000026C2676A900][0000026C26F2D000 49] iPhoneXSMax, [0000026C2672AB00][0000026C26F31180 49] iPhoneXR, [0000026C2676BD00][0000026C26F35300 49] iPhone11, [0000026C2672AF00][0000026C26F39480 49] iPhone11Pro, [0000026C26769100][0000026C26F3D600 49] iPhone11ProMax, [0000026C2672BA00][0000026C0B5D1740 49] iPhoneSE2, [0000026C26769D00][0000026C26F41880 49] iPhone12Mini, [0000026C26728500][0000026C26F459C0 49] iPhone12, [0000026C26768F00][0000026C26F49B00 49] iPhone12Pro, [0000026C26728E00][0000026C26F51C80 49] iPhone12ProMax, [0000026C2676A400][0000026C26F54140 49] iPadPro105, [0000026C26728800][0000026C26F582C0 49] iPadPro129, [0000026C26768D00][0000026C26F5C440 49] iPadPro97, [0000026C26729A00][0000026C26F605C0 49] iPadPro2_129, [0000026C26768700][0000026C26F64740 49] iPad5, [0000026C2672A000][0000026C26F688C0 49] iPad6, [0000026C26768900][0000026C26F6CA40 49] iPad7, [0000026C26729D00][0000026C26F70BC0 49] iPad8, [0000026C26768300][0000026C26F74D40 49] iPadPro11, [0000026C2672A500][0000026C26F78EC0 49] iPadPro2_11, [0000026C2676BF00][0000026C26F7D040 49] iPadPro3_129, [0000026C2672AE00][0000026C26F811C0 49] iPadPro4_129, [0000026C26769600][0000026C26F85340 49] AppleTV, [0000026C2672B300][0000026C26F894C0 49] AppleTV4K, [0000026C2676B300][0000026C26F8D640 49] TVOS, [0000026C2672AA00][0000026C26F917C0 49] Mac, [0000026C26769E00][0000026C26F4D900 49] MacClient, [0000026C2672B000][0000026C26F95A40 49] MacNoEditor, [0000026C26768E00][0000026C26F99B80 49] MacServer, [0000026C2672BF00][0000026C26FA1D00 49] Linux, [0000026C2676AA00][0000026C26FA41C0 49] LinuxNoEditor, [0000026C26729500][0000026C26FA8340 49] LinuxAArch64NoEditor, [0000026C26769000][0000026C26FAC4C0 49] LinuxClient, [0000026C2672A600][0000026C26FB0640 49] LinuxAArch64Client, [0000026C26768200][0000026C26FB47C0 49] LinuxServer, [0000026C2672BD00][0000026C26FB8940 49] LinuxAArch64Server, [0000026C26768600][0000026C26FBCAC0 49] Android, [0000026C26729200][0000026C26FC0C40 49] Android_Low, [0000026C267A0B00][0000026C26FC4DC0 49] Android_Mid, [0000026C267E4600][0000026C26FD8F40 49] Android_High, [0000026C267A2B00][0000026C26FDD0C0 49] Android_Default, [0000026C267E5700][0000026C26FE1240 49] Android_Adreno4xx, [0000026C267A1D00][0000026C26FE53C0 49] Android_Adreno5xx_Low, [0000026C267E4500][0000026C26FE9540 49] Android_Adreno5xx, [0000026C267A0D00][0000026C26FED6C0 49] Android_Adreno6xx, [0000026C267E5800][0000026C26FF1840 49] Android_Adreno6xx_Vulkan, [0000026C267A3700][0000026C26F9D980 49] Android_Mali_T6xx, [0000026C267E4D00][0000026C26FF5AC0 49] Android_Mali_T7xx, [0000026C267A2100][0000026C26FF9C00 49] Android_Mali_T8xx, [0000026C267E5A00][0000026C270000C0 49] Android_Mali_G71, [0000026C267A2900][0000026C27004240 49] Android_Mali_G72, [0000026C267E5000][0000026C270083C0 49] Android_Mali_G72_Vulkan, [0000026C267A2E00][0000026C2700C540 49] Android_Mali_G76, [0000026C267E4900][0000026C270106C0 49] Android_Mali_G76_Vulkan, [0000026C267A1B00][0000026C27014840 49] Android_Mali_G77, [0000026C267E4200][0000026C270309C0 49] Android_Mali_G77_Vulkan, [0000026C267A0500][0000026C2704EB40 49] Android_Vulkan_SM5, [0000026C267E5900][0000026C27060CC0 49] Android_PowerVR_G6xxx, [0000026C267A3500][0000026C2707CE40 49] Android_PowerVR_GT7xxx, [0000026C267E5300][0000026C27152FC0 49] Android_PowerVR_GE8xxx, [0000026C26728900][0000026C27157140 49] Android_PowerVR_GM9xxx, [0000026C2676AE00][0000026C2715B2C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000026C2672B700][0000026C2715F440 49] Android_TegraK1, [0000026C2676B500][0000026C271635C0 49] Android_Unknown_Vulkan, [0000026C26728400][0000026C27167740 49] Lumin, [0000026C2676B800][0000026C2716B8C0 49] Lumin_Desktop, [0000026C2672B400][0000026C26FFDA00 49] HoloLens, 
+[2020.12.30-21.49.00:321][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.30-21.49.00:321][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.30-21.49.00:321][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.30-21.49.00:321][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.30-21.49.00:321][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.30-21.49.00:343][  0]LogNetVersion: MarbelRun 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1755987487)
+[2020.12.30-21.49.01:184][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.30-21.49.01:257][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.072720 seconds
+[2020.12.30-21.49.01:265][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2020.12.30-21.49.01:265][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2020.12.30-21.49.01:265][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.30-21.49.01:782][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.30-21.49.01:788][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.30-21.49.01:987][  0]SourceControl: Source control is disabled
+[2020.12.30-21.49.01:987][  0]SourceControl: Source control is disabled
+[2020.12.30-21.49.01:990][  0]SourceControl: Source control is disabled
+[2020.12.30-21.49.01:994][  0]SourceControl: Source control is disabled
+[2020.12.30-21.49.02:001][  0]SourceControl: Source control is disabled
+[2020.12.30-21.49.02:009][  0]LogUProjectInfo: Found projects:
+[2020.12.30-21.49.02:017][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.30-21.49.02:018][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.30-21.49.02:220][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.30-21.49.02:243][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.30-21.49.02:243][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.30-21.49.02:304][  0]LogCollectionManager: Loaded 0 collections in 0.002247 seconds
+[2020.12.30-21.49.02:334][  0]LogFileCache: Scanning file cache for directory 'A:/games/MarbelRun/Saved/Collections/' took 0.00s
+[2020.12.30-21.49.02:334][  0]LogFileCache: Scanning file cache for directory 'A:/games/MarbelRun/Content/Developers/manas/Collections/' took 0.00s
+[2020.12.30-21.49.02:334][  0]LogFileCache: Scanning file cache for directory 'A:/games/MarbelRun/Content/Collections/' took 0.00s
+[2020.12.30-21.49.02:334][  0]LogOcInput: OculusInput pre-init called
+[2020.12.30-21.49.02:347][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.30-21.49.02:347][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.30-21.49.02:411][  0]LogEngine: Initializing Engine...
+[2020.12.30-21.49.02:412][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.30-21.49.02:412][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.30-21.49.02:413][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.30-21.49.02:571][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.30-21.49.02:584][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.30-21.49.02:602][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.30-21.49.02:609][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.30-21.49.02:609][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.30-21.49.02:610][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-21.49.02:610][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-21.49.02:610][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-21.49.02:610][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-21.49.02:610][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-21.49.02:610][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-21.49.02:610][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-21.49.02:610][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-21.49.02:610][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-21.49.02:610][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-21.49.02:625][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-21.49.02:626][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-21.49.02:669][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-21.49.02:676][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-21.49.02:678][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-21.49.02:678][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-21.49.02:680][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-21.49.02:680][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-21.49.02:680][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-21.49.02:681][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-21.49.02:681][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-21.49.02:681][  0]LogInit: FAudioDevice initialized.
+[2020.12.30-21.49.02:681][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.30-21.49.02:681][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.30-21.49.02:811][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/manas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.30-21.49.02:817][  0]LogInit: Texture streaming: Enabled
+[2020.12.30-21.49.02:838][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2020.12.30-21.49.02:844][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.30-21.49.02:844][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.30-21.49.02:846][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.30-21.49.02:907][  0]LogInit: Transaction tracking system initialized
+[2020.12.30-21.49.02:946][  0]BlueprintLog: New page: Editor Load
+[2020.12.30-21.49.03:064][  0]LocalizationService: Localization service is disabled
+[2020.12.30-21.49.03:113][  0]TimingProfiler: Initialize
+[2020.12.30-21.49.03:113][  0]TimingProfiler: OnSessionChanged
+[2020.12.30-21.49.03:113][  0]LoadingProfiler: Initialize
+[2020.12.30-21.49.03:113][  0]LoadingProfiler: OnSessionChanged
+[2020.12.30-21.49.03:113][  0]NetworkingProfiler: Initialize
+[2020.12.30-21.49.03:113][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.30-21.49.03:113][  0]MemoryProfiler: Initialize
+[2020.12.30-21.49.03:113][  0]MemoryProfiler: OnSessionChanged
+[2020.12.30-21.49.03:324][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.30-21.49.03:325][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.30-21.49.03:539][  0]LogFileCache: Scanning file cache for directory 'A:/games/MarbelRun/Content/' took 0.00s
+[2020.12.30-21.49.03:909][  0]SourceControl: Source control is disabled
+[2020.12.30-21.49.03:909][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.094
+[2020.12.30-21.49.03:909][  0]Cmd: MAP LOAD FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.30-21.49.03:909][  0]LightingResults: New page: Lighting Build
+[2020.12.30-21.49.03:912][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-21.49.03:913][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-21.49.03:913][  0]MapCheck: New page: Map Check
+[2020.12.30-21.49.03:913][  0]LightingResults: New page: Lighting Build
+[2020.12.30-21.49.03:924][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.12.30-21.49.04:083][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2020.12.30-21.49.04:084][  0]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-21.49.04:090][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.30-21.49.04:106][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.12.30-21.49.04:107][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.30-21.49.04:107][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.162ms to complete.
+[2020.12.30-21.49.04:107][  0]LogFileHelpers: Loading map 'Level1' took 0.198
+[2020.12.30-21.49.04:109][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.294
+[2020.12.30-21.49.04:246][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-21.49.04:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-21.49.04:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-21.49.04:272][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-21.49.04:290][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0117 seconds. Added 3601 classes and 859 folders.
+[2020.12.30-21.49.04:295][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.30-21.49.04:309][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.30-21.49.04:309][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:309][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.30-21.49.04:309][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2020.12.30-21.49.04:318][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.30-21.49.04:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.30-21.49.04:318][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2020.12.30-21.49.04:326][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.30-21.49.04:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.30-21.49.04:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2020.12.30-21.49.04:334][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-21.49.04:334][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:334][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.30-21.49.04:334][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2020.12.30-21.49.04:342][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.30-21.49.04:342][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:342][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.30-21.49.04:342][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2020.12.30-21.49.04:350][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.30-21.49.04:350][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:350][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.30-21.49.04:350][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2020.12.30-21.49.04:359][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.30-21.49.04:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.30-21.49.04:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2020.12.30-21.49.04:371][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.30-21.49.04:371][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:371][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.30-21.49.04:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2020.12.30-21.49.04:381][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.30-21.49.04:381][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:381][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.30-21.49.04:381][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2020.12.30-21.49.04:389][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.30-21.49.04:389][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:389][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.30-21.49.04:389][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2020.12.30-21.49.04:397][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.30-21.49.04:397][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:397][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.30-21.49.04:397][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2020.12.30-21.49.04:406][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.30-21.49.04:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.30-21.49.04:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2020.12.30-21.49.04:414][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-21.49.04:414][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:414][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.30-21.49.04:414][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2020.12.30-21.49.04:422][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.30-21.49.04:422][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:422][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.30-21.49.04:422][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2020.12.30-21.49.04:431][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.30-21.49.04:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.30-21.49.04:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2020.12.30-21.49.04:440][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.30-21.49.04:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.30-21.49.04:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2020.12.30-21.49.04:448][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.30-21.49.04:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.30-21.49.04:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2020.12.30-21.49.04:457][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.30-21.49.04:457][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:457][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.30-21.49.04:457][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2020.12.30-21.49.04:466][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-21.49.04:466][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:466][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.30-21.49.04:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2020.12.30-21.49.04:479][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-21.49.04:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.30-21.49.04:479][  0]LogPakFile: OnPakFileMounted2Time == 0.000098
+[2020.12.30-21.49.04:488][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.30-21.49.04:488][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:488][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.30-21.49.04:488][  0]LogPakFile: OnPakFileMounted2Time == 0.000102
+[2020.12.30-21.49.04:496][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.30-21.49.04:496][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:496][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.30-21.49.04:496][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2020.12.30-21.49.04:505][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.30-21.49.04:505][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:505][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.30-21.49.04:505][  0]LogPakFile: OnPakFileMounted2Time == 0.000110
+[2020.12.30-21.49.04:514][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.30-21.49.04:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.30-21.49.04:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2020.12.30-21.49.04:525][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-21.49.04:525][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:525][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.30-21.49.04:525][  0]LogPakFile: OnPakFileMounted2Time == 0.000118
+[2020.12.30-21.49.04:533][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.30-21.49.04:533][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-21.49.04:533][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.30-21.49.04:533][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2020.12.30-21.49.04:807][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.30-21.49.04:808][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.12.30-21.49.04:868][  0]LogSlate: Took 0.009443 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.30-21.49.04:880][  0]LogSlate: Took 0.009118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.30-21.49.04:996][  0]LogRenderer: Reallocating scene render targets to support 772x392 Format 10 NumSamples 1 (Frame:1).
+[2020.12.30-21.49.05:453][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.30-21.49.05:453][  0]LogLoad: (Engine Initialization) Total time: 9.64 seconds
+[2020.12.30-21.49.05:453][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.30-21.49.05:453][  0]LogInit: First time updating LLM stats...
+[2020.12.30-21.49.05:496][  0]LogAssetRegistry: Asset discovery search completed in 5.6226 seconds
+[2020.12.30-21.49.05:498][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.12.30-21.49.05:542][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.30-21.49.07:007][ 46]LogSlate: Took 0.013560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.30-21.49.07:028][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-21.49.07:037][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.12.30-21.49.07:071][ 46]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1184153F8457A1525E19755A1CF29EA79.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-21.49.07:095][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-21.49.07:119][ 46]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltDataA4D126F44DF0C7E864285E8CD186AA55.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-21.49.07:132][ 46]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-21.49.07:132][ 46]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-21.49.07:132][ 46]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-21.49.13:769][331]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-21.49.13:784][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-21.49.13:784][331]PIE: New page: PIE session: Level1 (Dec 31, 2020, 8:49:13 AM)
+[2020.12.30-21.49.13:786][331]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.30-21.49.13:787][331]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.30-21.49.13:787][331]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-21.49.13:791][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004692s)
+[2020.12.30-21.49.13:793][331]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-21.49.13:793][331]LogPlayLevel: PIE: World Init took: (0.001473s)
+[2020.12.30-21.49.13:793][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.006334s)
+[2020.12.30-21.49.13:800][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.12.30-21.49.13:800][331]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2020.12.30-21.49.13:801][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-21.49.13:801][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-21.49.13:801][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-21.49.13:801][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-21.49.13:801][331]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-21.49.13:801][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-21.49.13:801][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-21.49.13:801][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-21.49.13:801][331]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-21.49.13:801][331]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-21.49.13:804][331]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-21.49.13:804][331]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-21.49.13:815][331]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-21.49.13:815][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-21.49.13:815][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-21.49.13:816][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-21.49.13:816][331]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-21.49.13:816][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-21.49.13:816][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-21.49.13:831][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-21.49.13:831][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-21.49.13:831][331]LogInit: FAudioDevice initialized.
+[2020.12.30-21.49.13:831][331]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2020.12.30-21.49.13:839][331]LogLoad: Game class is 'GameModeBase'
+[2020.12.30-21.49.13:841][331]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.12.31-03.19.13
+[2020.12.30-21.49.13:841][331]LogWorld: Bringing up level for play took: 0.000933
+[2020.12.30-21.49.13:842][331]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2020.12.30-21.49.13:846][331]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.30-21.49.13:847][331]LogBlueprintUserMessages: [Level1_C_13] Welcome to the game
+[2020.12.30-21.49.13:847][331]PIE: Server logged in
+[2020.12.30-21.49.13:848][331]PIE: Play in editor total start time 0.066 seconds.
+[2020.12.30-21.49.36:263][386]LogBlueprintUserMessages: [Level1_C_13] Well Done! You have completed in  22.5 Seconds
+[2020.12.30-21.49.37:259][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-21.49.37:259][432]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-21.49.37:259][432]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-21.49.37:260][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-21.49.37:284][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-21.49.37:286][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-21.49.37:292][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-21.49.37:293][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-21.49.37:294][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-21.49.37:313][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.12.30-21.49.37:339][433]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.12.30-21.49.41:824][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-21.49.41:831][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.30-21.49.41:859][620]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1D4E116704522CFFF016A7CBAC31E71C4.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-21.49.41:878][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-21.49.41:898][620]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltDataD9AEA4E44C3B687127D1B5903A8F3441.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-21.49.41:906][620]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-21.49.41:906][620]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-21.49.41:906][620]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-21.49.42:919][664]LogSlate: Took 0.008699 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.30-21.49.42:928][664]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.30-21.49.45:427][763]LogRenderer: Reallocating scene render targets to support 984x392 Format 10 NumSamples 1 (Frame:668).
+[2020.12.30-21.49.50:678][947]LogRenderer: Reallocating scene render targets to support 988x392 Format 10 NumSamples 1 (Frame:855).
+[2020.12.30-21.49.50:779][948]LogRenderer: Reallocating scene render targets to support 1004x392 Format 10 NumSamples 1 (Frame:857).
+[2020.12.30-21.49.50:885][949]LogRenderer: Reallocating scene render targets to support 1020x392 Format 10 NumSamples 1 (Frame:859).
+[2020.12.30-21.49.50:983][950]LogRenderer: Reallocating scene render targets to support 1036x392 Format 10 NumSamples 1 (Frame:861).
+[2020.12.30-21.49.51:085][951]LogRenderer: Reallocating scene render targets to support 1056x392 Format 10 NumSamples 1 (Frame:863).
+[2020.12.30-21.49.51:185][952]LogRenderer: Reallocating scene render targets to support 1076x392 Format 10 NumSamples 1 (Frame:865).
+[2020.12.30-21.49.51:283][953]LogRenderer: Reallocating scene render targets to support 1080x392 Format 10 NumSamples 1 (Frame:867).
+[2020.12.30-21.49.51:877][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-21.49.51:884][970]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.12.30-21.49.51:912][970]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1D75260114AF419C352C10A9A1BF1FA47.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-21.49.51:931][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-21.49.51:952][970]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltData37C3C0224697207177708C83B8288B8F.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-21.49.51:959][970]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-21.49.51:960][970]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-21.49.51:960][970]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-21.50.09:224][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2020.12.30-21.50.09:226][586]LogPlayLevel: Launcher Device ID: WindowsNoEditor@DESKTOP-PD4S702
+[2020.12.30-21.50.09:233][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-21.50.09:234][586]LogCook: Display: Creating asset registry
+[2020.12.30-21.50.09:308][586]LogCook: Display: Discovering localized assets for cultures: en
+[2020.12.30-21.50.09:311][586]LogCook: Display: Unable to read previous cook inisettings for platform WindowsNoEditor invalidating cook
+[2020.12.30-21.50.09:311][586]LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2020.12.30-21.50.09:342][586]LogCook: Display: Sandbox cleanup took 0.031 seconds for platforms WindowsNoEditor
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2851
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2850
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2849
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2848
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2847
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2846
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2845
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2844
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2843
+[2020.12.30-21.50.12:917][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2842
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2841
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2840
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2839
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2838
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2837
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2836
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2835
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2834
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2833
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2832
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2831
+[2020.12.30-21.50.13:474][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2830
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2829
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2828
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2827
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2826
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2825
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2824
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2823
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2822
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2821
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2820
+[2020.12.30-21.50.14:028][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2819
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2818
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2817
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2816
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2815
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2814
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2813
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2812
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2811
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2810
+[2020.12.30-21.50.14:588][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2809
+[2020.12.30-21.50.15:151][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2808
+[2020.12.30-21.50.15:151][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2807
+[2020.12.30-21.50.15:151][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2806
+[2020.12.30-21.50.15:151][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2805
+[2020.12.30-21.50.15:151][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2804
+[2020.12.30-21.50.15:151][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2803
+[2020.12.30-21.50.15:151][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2802
+[2020.12.30-21.50.15:151][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2801
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2800
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2799
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2798
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2797
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2796
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2795
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2794
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2793
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2792
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2791
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2790
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2789
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2788
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2787
+[2020.12.30-21.50.15:708][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2786
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2785
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2784
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2783
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2782
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2781
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2780
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2779
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2778
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2777
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2776
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2775
+[2020.12.30-21.50.16:268][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2774
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2773
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2772
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2771
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2770
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2769
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2768
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2767
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2766
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2765
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2764
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2763
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2762
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2761
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2760
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2759
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2758
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2757
+[2020.12.30-21.50.16:829][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2756
+[2020.12.30-21.50.17:389][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2755
+[2020.12.30-21.50.17:389][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2754
+[2020.12.30-21.50.17:389][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2753
+[2020.12.30-21.50.17:389][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2752
+[2020.12.30-21.50.17:389][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2751
+[2020.12.30-21.50.17:389][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2750
+[2020.12.30-21.50.17:942][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2749
+[2020.12.30-21.50.17:942][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2748
+[2020.12.30-21.50.17:942][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2747
+[2020.12.30-21.50.17:942][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2746
+[2020.12.30-21.50.17:942][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2745
+[2020.12.30-21.50.17:942][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2744
+[2020.12.30-21.50.17:942][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2743
+[2020.12.30-21.50.19:058][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2742
+[2020.12.30-21.50.19:058][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2741
+[2020.12.30-21.50.19:058][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2740
+[2020.12.30-21.50.19:058][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2739
+[2020.12.30-21.50.19:058][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2738
+[2020.12.30-21.50.19:058][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2737
+[2020.12.30-21.50.19:058][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2736
+[2020.12.30-21.50.19:628][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2735
+[2020.12.30-21.50.19:628][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2734
+[2020.12.30-21.50.19:628][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2733
+[2020.12.30-21.50.19:628][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2732
+[2020.12.30-21.50.19:628][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2731
+[2020.12.30-21.50.19:628][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2730
+[2020.12.30-21.50.19:628][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2729
+[2020.12.30-21.50.20:188][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2728
+[2020.12.30-21.50.20:188][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2727
+[2020.12.30-21.50.20:188][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2726
+[2020.12.30-21.50.20:188][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2725
+[2020.12.30-21.50.20:188][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2724
+[2020.12.30-21.50.20:188][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2723
+[2020.12.30-21.50.20:188][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2722
+[2020.12.30-21.50.20:745][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2721
+[2020.12.30-21.50.20:745][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2720
+[2020.12.30-21.50.20:745][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2719
+[2020.12.30-21.50.20:745][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2718
+[2020.12.30-21.50.20:745][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2717
+[2020.12.30-21.50.20:745][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2716
+[2020.12.30-21.50.21:305][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2715
+[2020.12.30-21.50.21:305][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2714
+[2020.12.30-21.50.21:305][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2713
+[2020.12.30-21.50.21:305][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2712
+[2020.12.30-21.50.21:305][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2711
+[2020.12.30-21.50.21:305][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2710
+[2020.12.30-21.50.21:305][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2709
+[2020.12.30-21.50.21:305][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2708
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2707
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2706
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2705
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2704
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2703
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2702
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2701
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2700
+[2020.12.30-21.50.21:861][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2699
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2698
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2697
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2696
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2695
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2694
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2693
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2692
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2691
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2690
+[2020.12.30-21.50.22:419][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2689
+[2020.12.30-21.50.22:983][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2688
+[2020.12.30-21.50.22:983][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2687
+[2020.12.30-21.50.22:983][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2686
+[2020.12.30-21.50.22:983][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2685
+[2020.12.30-21.50.22:983][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2684
+[2020.12.30-21.50.22:983][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2683
+[2020.12.30-21.50.24:124][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2682
+[2020.12.30-21.50.24:124][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2681
+[2020.12.30-21.50.24:682][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2680
+[2020.12.30-21.50.24:682][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2679
+[2020.12.30-21.50.24:682][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2678
+[2020.12.30-21.50.24:682][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2677
+[2020.12.30-21.50.24:682][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2676
+[2020.12.30-21.50.25:239][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2675
+[2020.12.30-21.50.25:239][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2674
+[2020.12.30-21.50.25:239][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2673
+[2020.12.30-21.50.25:239][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2672
+[2020.12.30-21.50.25:239][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2671
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2670
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2669
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2668
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2667
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2666
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2665
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2664
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2663
+[2020.12.30-21.50.25:799][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2662
+[2020.12.30-21.50.26:357][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2661
+[2020.12.30-21.50.26:357][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2660
+[2020.12.30-21.50.26:357][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2659
+[2020.12.30-21.50.26:357][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2658
+[2020.12.30-21.50.26:357][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2657
+[2020.12.30-21.50.26:357][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2656
+[2020.12.30-21.50.26:357][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2655
+[2020.12.30-21.50.27:474][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2654
+[2020.12.30-21.50.27:474][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2653
+[2020.12.30-21.50.27:474][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2652
+[2020.12.30-21.50.28:588][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2651
+[2020.12.30-21.50.28:588][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2650
+[2020.12.30-21.50.28:588][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2649
+[2020.12.30-21.50.29:142][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2648
+[2020.12.30-21.50.29:700][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2647
+[2020.12.30-21.50.29:700][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2646
+[2020.12.30-21.50.30:258][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2645
+[2020.12.30-21.50.30:258][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2644
+[2020.12.30-21.50.30:258][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2643
+[2020.12.30-21.50.31:373][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2642
+[2020.12.30-21.50.31:373][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2641
+[2020.12.30-21.50.31:373][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2640
+[2020.12.30-21.50.32:487][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2639
+[2020.12.30-21.50.32:487][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2638
+[2020.12.30-21.50.32:487][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2637
+[2020.12.30-21.50.33:602][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2636
+[2020.12.30-21.50.33:602][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2635
+[2020.12.30-21.50.33:602][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2634
+[2020.12.30-21.50.34:715][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2633
+[2020.12.30-21.50.34:715][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2632
+[2020.12.30-21.50.34:715][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2631
+[2020.12.30-21.50.35:269][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2630
+[2020.12.30-21.50.35:826][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2629
+[2020.12.30-21.50.35:826][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2628
+[2020.12.30-21.50.36:384][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2627
+[2020.12.30-21.50.36:384][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2626
+[2020.12.30-21.50.36:943][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2625
+[2020.12.30-21.50.37:502][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2624
+[2020.12.30-21.50.37:502][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2623
+[2020.12.30-21.50.38:059][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2622
+[2020.12.30-21.50.38:617][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2621
+[2020.12.30-21.50.39:174][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2620
+[2020.12.30-21.50.39:174][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2619
+[2020.12.30-21.50.40:286][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2618
+[2020.12.30-21.50.40:286][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2617
+[2020.12.30-21.50.40:843][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2616
+[2020.12.30-21.50.41:401][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2615
+[2020.12.30-21.50.41:401][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2614
+[2020.12.30-21.50.41:959][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2613
+[2020.12.30-21.50.42:515][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2612
+[2020.12.30-21.50.43:071][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2611
+[2020.12.30-21.50.43:071][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2610
+[2020.12.30-21.50.44:188][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2609
+[2020.12.30-21.50.44:188][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2608
+[2020.12.30-21.50.44:188][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2607
+[2020.12.30-21.50.45:306][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2606
+[2020.12.30-21.50.45:865][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2605
+[2020.12.30-21.50.45:865][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2604
+[2020.12.30-21.50.47:537][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2603
+[2020.12.30-21.50.48:094][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2602
+[2020.12.30-21.50.48:094][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2601
+[2020.12.30-21.50.49:210][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2600
+[2020.12.30-21.50.49:768][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2599
+[2020.12.30-21.50.49:768][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2598
+[2020.12.30-21.50.50:881][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2597
+[2020.12.30-21.50.50:881][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2596
+[2020.12.30-21.50.50:881][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2595
+[2020.12.30-21.50.51:998][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2594
+[2020.12.30-21.50.52:557][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2593
+[2020.12.30-21.50.52:557][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2592
+[2020.12.30-21.50.53:108][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2591
+[2020.12.30-21.50.53:108][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2590
+[2020.12.30-21.50.53:108][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2589
+[2020.12.30-21.50.53:667][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2588
+[2020.12.30-21.50.53:667][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2587
+[2020.12.30-21.50.53:667][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2586
+[2020.12.30-21.50.54:225][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2585
+[2020.12.30-21.50.54:225][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2584
+[2020.12.30-21.50.54:225][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2583
+[2020.12.30-21.50.54:225][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2582
+[2020.12.30-21.50.54:225][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2581
+[2020.12.30-21.50.54:225][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2580
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2579
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2578
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2577
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2576
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2575
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2574
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2573
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2572
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2571
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2570
+[2020.12.30-21.50.54:782][586]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2569
+[2020.12.30-21.50.55:341][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2568
+[2020.12.30-21.50.55:341][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2567
+[2020.12.30-21.50.55:899][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2566
+[2020.12.30-21.50.57:015][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2565
+[2020.12.30-21.50.57:575][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2564
+[2020.12.30-21.50.58:132][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2563
+[2020.12.30-21.50.58:690][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2562
+[2020.12.30-21.50.59:249][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2561
+[2020.12.30-21.50.59:249][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2560
+[2020.12.30-21.50.59:809][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2559
+[2020.12.30-21.51.00:365][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2558
+[2020.12.30-21.51.01:478][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2557
+[2020.12.30-21.51.01:478][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2556
+[2020.12.30-21.51.02:035][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2555
+[2020.12.30-21.51.02:594][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2554
+[2020.12.30-21.51.03:152][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2553
+[2020.12.30-21.51.03:710][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2552
+[2020.12.30-21.51.04:271][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2551
+[2020.12.30-21.51.04:830][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2550
+[2020.12.30-21.51.05:391][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2549
+[2020.12.30-21.51.05:948][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2548
+[2020.12.30-21.51.05:948][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2547
+[2020.12.30-21.51.06:504][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2546
+[2020.12.30-21.51.07:060][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2545
+[2020.12.30-21.51.07:619][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2544
+[2020.12.30-21.51.07:619][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2543
+[2020.12.30-21.51.08:745][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2542
+[2020.12.30-21.51.09:312][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2541
+[2020.12.30-21.51.09:872][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2540
+[2020.12.30-21.51.10:431][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2539
+[2020.12.30-21.51.10:988][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2538
+[2020.12.30-21.51.10:988][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2537

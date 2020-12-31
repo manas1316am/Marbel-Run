@@ -1,0 +1,1551 @@
+﻿Log file open, 12/30/20 21:23:56
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MarbelRun
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.365856
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:30, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU:        Intel(R) Core(TM) i5-3470S CPU @ 2.90GHz, GPU: NVIDIA GeForce GT 710
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.30-15.53.57:623][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.30-15.53.57:623][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.30-15.53.57:623][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-15.53.57:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2020.12.30-15.53.57:624][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-15.53.57:624][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-15.53.57:630][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.30-15.53.57:630][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.30-15.53.57:631][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.30-15.53.57:632][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.30-15.53.57:632][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.30-15.53.57:632][  0]LogHAL: Display: Platform has ~ 8 GB [8546361344 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.30-15.53.57:632][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.30-15.53.57:632][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.30-15.53.57:632][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.30-15.53.57:633][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [A:/games/MarbelRun/Saved/Config/Windows/Scalability.ini]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.12.30-15.53.57:634][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [A:/games/MarbelRun/Saved/Config/Windows/Engine.ini]
+[2020.12.30-15.53.57:634][  0]LogInit: Computer: DESKTOP-PD4S702
+[2020.12.30-15.53.57:634][  0]LogInit: User: manas
+[2020.12.30-15.53.57:634][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.30-15.53.57:634][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.30-15.53.57:634][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2020.12.30-15.53.57:634][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.30-15.53.57:634][  0]LogMemory: Process Physical Memory: 132.12 MB used, 132.12 MB peak
+[2020.12.30-15.53.57:634][  0]LogMemory: Process Virtual Memory: 117.46 MB used, 117.46 MB peak
+[2020.12.30-15.53.57:634][  0]LogMemory: Physical Memory: 4219.09 MB used,  3931.36 MB free, 8150.45 MB total
+[2020.12.30-15.53.57:635][  0]LogMemory: Virtual Memory: 134212392.00 MB used,  5332.44 MB free, 134217728.00 MB total
+[2020.12.30-15.53.57:641][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.30-15.53.57:702][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.12.30-15.53.57:703][  0]LogInit: Using OS detected language (en-GB).
+[2020.12.30-15.53.57:703][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.30-15.53.57:712][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.12.30-15.53.57:989][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.30-15.53.57:998][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2020.12.30-15.53.58:021][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.30-15.53.58:021][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.30-15.53.58:196][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.30-15.53.58:196][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.30-15.53.58:196][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.30-15.53.58:196][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.30-15.53.58:332][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 710' (Feature Level 11_0)
+[2020.12.30-15.53.58:332][  0]LogD3D11RHI:       2007/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.12.30-15.53.58:335][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.30-15.53.58:335][  0]LogD3D11RHI:       0/0/4075 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.30-15.53.58:335][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.30-15.53.58:340][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.30-15.53.58:341][  0]LogD3D11RHI:     GPU DeviceId: 0x128b (for the marketing name, search the web for "GPU Device Id")
+[2020.12.30-15.53.58:341][  0]LogWindows: EnumDisplayDevices:
+[2020.12.30-15.53.58:341][  0]LogWindows:    0. 'NVIDIA GeForce GT 710' (P:1 D:1)
+[2020.12.30-15.53.58:341][  0]LogWindows:    1. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2020.12.30-15.53.58:341][  0]LogWindows:    2. 'NVIDIA GeForce GT 710' (P:0 D:0)
+[2020.12.30-15.53.58:342][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.12.30-15.53.58:342][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 710
+[2020.12.30-15.53.58:342][  0]LogD3D11RHI:   Driver Version: 460.79 (internal:27.21.14.6079, unified:460.79)
+[2020.12.30-15.53.58:342][  0]LogD3D11RHI:      Driver Date: 12-3-2020
+[2020.12.30-15.53.58:342][  0]LogRHI: Texture pool is 1404 MB (70% of 2007 MB)
+[2020.12.30-15.53.58:449][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.12.30-15.53.58:449][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.30-15.53.58:472][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.30-15.53.58:474][  0]LogRHI: GeForceNow SDK initialized: 1
+[2020.12.30-15.53.58:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.30-15.53.58:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.30-15.53.58:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.30-15.53.58:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.30-15.53.58:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.30-15.53.58:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.30-15.53.58:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.30-15.53.58:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.30-15.53.58:929][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.30-15.53.58:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.30-15.53.58:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.30-15.53.58:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.30-15.53.58:958][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.30-15.53.58:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.12.30-15.53.58:983][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.30-15.53.58:994][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.30-15.53.59:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.30-15.53.59:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.30-15.53.59:028][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.30-15.53.59:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.30-15.53.59:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.30-15.53.59:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.30-15.53.59:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2020.12.30-15.53.59:101][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2020.12.30-15.53.59:113][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2020.12.30-15.53.59:125][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2020.12.30-15.53.59:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.30-15.53.59:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.30-15.53.59:155][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.30-15.53.59:168][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.30-15.53.59:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.30-15.53.59:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.30-15.53.59:191][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.30-15.53.59:200][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.30-15.53.59:280][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2020.12.30-15.53.59:280][  0]LogShaderCompilers: Guid format shader working directory is 27 characters bigger than the processId version (A:/games/MarbelRun/Intermediate/Shaders/WorkingDirectory/11652/).
+[2020.12.30-15.53.59:280][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/manas/AppData/Local/Temp/UnrealShaderWorkingDir/898F88C947A6499297AD48BFCAD29658/'.
+[2020.12.30-15.53.59:280][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.30-15.53.59:280][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.30-15.54.00:268][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.30-15.54.00:358][  0]LogDerivedDataCache: Loaded boot cache 0.09s 77MB C:/Users/manas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.30-15.54.00:358][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/manas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2020.12.30-15.54.00:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file A:/games/MarbelRun/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.30-15.54.00:359][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.30-15.54.00:359][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file A:/games/MarbelRun/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.30-15.54.00:359][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.30-15.54.00:374][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.30-15.54.00:375][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.30-15.54.00:375][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.30-15.54.00:392][  0]LogDerivedDataCache: Speed tests for C:/Users/manas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2020.12.30-15.54.00:392][  0]LogDerivedDataCache: Display: Performance to C:/Users/manas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=248.51MBs, RandomWriteSpeed=72.98MBs. Assigned SpeedClass 'Local'
+[2020.12.30-15.54.00:392][  0]LogDerivedDataCache: Using Local data cache path C:/Users/manas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.30-15.54.00:393][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.30-15.54.00:393][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.30-15.54.00:461][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.30-15.54.00:462][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.30-15.54.00:503][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2020.12.30-15.54.00:839][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.30-15.54.00:840][  0]LogInit: Active device profile: [0000026CAE2B3D00][0000026CA4C1E6C0 49] Windows
+[2020.12.30-15.54.00:840][  0]LogInit: Profiles: [0000026CAE2B3D00][0000026CA4C1E6C0 49] Windows, [0000026CAE270400][0000026CA4C26840 49] WindowsNoEditor, [0000026CAE2B0400][0000026CA4C2A9C0 49] WindowsServer, [0000026CAE273900][0000026CA4C2EB40 49] WindowsClient, [0000026CAE2B3A00][0000026CA4C32CC0 49] IOS, [0000026CAE270800][0000026CA4C36E40 49] iPadAir, [0000026CAE2B0700][0000026CA4C3AFC0 49] iPadAir2, [0000026CAE225800][0000026CA4C43280 49] IPadPro, [0000026CAE225900][0000026CA4C3F2C0 49] iPadAir3, [0000026CAE2B3E00][0000026CA4C4B440 49] iPadAir4, [0000026CAE224A00][0000026CA4C575C0 49] iPadMini2, [0000026CAE2B0800][0000026CA4C23700 49] iPadMini3, [0000026CAE226300][0000026CAE8CB840 49] iPadMini4, [0000026CAE2B3600][0000026CAE8D3980 49] iPadMini5, [0000026CAE272600][0000026CAE8EBC00 49] iPhone6, [0000026CAE272500][0000026CAE8E3C40 49] iPodTouch6, [0000026CAE227B00][0000026CAE8F2240 49] iPhone7, [0000026CAE227C00][0000026CAE8EE280 49] iPodTouch7, [0000026CAE272F00][0000026CAE8F6400 49] iPhone5S, [0000026CAE225600][0000026CAE8FA580 49] iPhone6Plus, [0000026CAE271B00][0000026CAE8FE700 49] iPhone6S, [0000026CAE227100][0000026CAE902880 49] iPhone6SPlus, [0000026CAE272C00][0000026CAE906A00 49] iPhone7Plus, [0000026CAE225700][0000026CAE90AB80 49] iPhoneSE, [0000026CAE271700][0000026CAE90ED00 49] iPhone8, [0000026CAE225100][0000026CAE912E80 49] iPhone8Plus, [0000026CAE272700][0000026CAE917000 49] iPhoneX, [0000026CAE224200][0000026CAE91B180 49] iPhoneXS, [0000026CAE272900][0000026CAE91F300 49] iPhoneXSMax, [0000026CAE226B00][0000026CAE923480 49] iPhoneXR, [0000026CAE273D00][0000026CAE927600 49] iPhone11, [0000026CAE226F00][0000026CAE92B780 49] iPhone11Pro, [0000026CAE271100][0000026CAE8E78C0 49] iPhone11ProMax, [0000026CAE227A00][0000026CAE92FA00 49] iPhoneSE2, [0000026CAE271D00][0000026CAE933B40 49] iPhone12Mini, [0000026CAE224500][0000026CAE93BCC0 49] iPhone12, [0000026CAE270F00][0000026CAE93E180 49] iPhone12Pro, [0000026CAE224E00][0000026CAE942300 49] iPhone12ProMax, [0000026CAE272400][0000026CAE946480 49] iPadPro105, [0000026CAE224800][0000026CAE94A600 49] iPadPro129, [0000026CAE270D00][0000026C92E48780 49] iPadPro97, [0000026CAE225A00][0000026C92E4C900 49] iPadPro2_129, [0000026CAE270700][0000026C92E50A80 49] iPad5, [0000026CAE226000][0000026C92E54C00 49] iPad6, [0000026CAE270900][0000026C92E58D80 49] iPad7, [0000026CAE225D00][0000026C92E5CF00 49] iPad8, [0000026CAE270300][0000026C92E61080 49] iPadPro11, [0000026CAE226500][0000026C92E65200 49] iPadPro2_11, [0000026CAE273F00][0000026C92E69380 49] iPadPro3_129, [0000026CAE226E00][0000026C92E6D500 49] iPadPro4_129, [0000026CAE271600][0000026C92E71680 49] AppleTV, [0000026CAE227300][0000026C92E75800 49] AppleTV4K, [0000026CAE273300][0000026CAE937940 49] TVOS, [0000026CAE226A00][0000026C92E79A80 49] Mac, [0000026CAE271E00][0000026C92E7DBC0 49] MacClient, [0000026CAE227000][0000026C92E81D00 49] MacNoEditor, [0000026CAE270E00][0000026C92E881C0 49] MacServer, [0000026CAE227F00][0000026C92E8C340 49] Linux, [0000026CAE272A00][0000026C92E904C0 49] LinuxNoEditor, [0000026CAE225500][0000026C92E94640 49] LinuxAArch64NoEditor, [0000026CAE271000][0000026CAE94E7C0 49] LinuxClient, [0000026CAE226600][0000026CAE952940 49] LinuxAArch64Client, [0000026CAE270200][0000026CAE956AC0 49] LinuxServer, [0000026CAE227D00][0000026CAE95AC40 49] LinuxAArch64Server, [0000026CAE270600][0000026CAE95EDC0 49] Android, [0000026CAE225200][0000026CAE962F40 49] Android_Low, [0000026CAE2B0B00][0000026CAE9670C0 49] Android_Mid, [0000026CAE300600][0000026CAE96B240 49] Android_High, [0000026CAE2B2B00][0000026CAE96F3C0 49] Android_Default, [0000026CAE301700][0000026CAE973540 49] Android_Adreno4xx, [0000026CAE2B1D00][0000026CAE9776C0 49] Android_Adreno5xx_Low, [0000026CAE300500][0000026CAE97B840 49] Android_Adreno5xx, [0000026CAE2B0D00][0000026C92E85980 49] Android_Adreno6xx, [0000026CAE301800][0000026CAE97FAC0 49] Android_Adreno6xx_Vulkan, [0000026CAE2B3700][0000026CAE983C00 49] Android_Mali_T6xx, [0000026CAE300D00][0000026CAE987D40 49] Android_Mali_T7xx, [0000026CAE2B2100][0000026CAE98E200 49] Android_Mali_T8xx, [0000026CAE301A00][0000026CAE992380 49] Android_Mali_G71, [0000026CAE2B2900][0000026CAE996500 49] Android_Mali_G72, [0000026CAE301000][0000026CAE99A680 49] Android_Mali_G72_Vulkan, [0000026CAE2B2E00][0000026CAE99E800 49] Android_Mali_G76, [0000026CAE300900][0000026CAE9A2980 49] Android_Mali_G76_Vulkan, [0000026CAE2B1B00][0000026CAE9A6B00 49] Android_Mali_G77, [0000026CAE300200][0000026CAE9AAC80 49] Android_Mali_G77_Vulkan, [0000026CAE2B0500][0000026CAE9AEE00 49] Android_Vulkan_SM5, [0000026CAE301900][0000026CAE9B2F80 49] Android_PowerVR_G6xxx, [0000026CAE2B3500][0000026CAE9B7100 49] Android_PowerVR_GT7xxx, [0000026CAE301300][0000026CAE9BB280 49] Android_PowerVR_GE8xxx, [0000026CAE224900][0000026CAE9BF400 49] Android_PowerVR_GM9xxx, [0000026CAE272E00][0000026CAE9C3580 49] Android_PowerVR_GM9xxx_Vulkan, [0000026CAE227700][0000026CAE9C7700 49] Android_TegraK1, [0000026CAE273500][0000026CAE9CB880 49] Android_Unknown_Vulkan, [0000026CAE224400][0000026CAE9CFA00 49] Lumin, [0000026CAE273800][0000026CAE98BB40 49] Lumin_Desktop, [0000026CAE227400][0000026CAE9D3C80 49] HoloLens, 
+[2020.12.30-15.54.00:994][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.30-15.54.00:994][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.30-15.54.00:994][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.30-15.54.00:994][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.30-15.54.00:994][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.30-15.54.01:016][  0]LogNetVersion: MarbelRun 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1755987487)
+[2020.12.30-15.54.01:689][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2020.12.30-15.54.01:751][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.061949 seconds
+[2020.12.30-15.54.01:759][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2020.12.30-15.54.01:759][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2020.12.30-15.54.01:759][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.30-15.54.02:283][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.30-15.54.02:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.30-15.54.02:399][  0]SourceControl: Source control is disabled
+[2020.12.30-15.54.02:399][  0]SourceControl: Source control is disabled
+[2020.12.30-15.54.02:403][  0]SourceControl: Source control is disabled
+[2020.12.30-15.54.02:406][  0]SourceControl: Source control is disabled
+[2020.12.30-15.54.02:417][  0]SourceControl: Source control is disabled
+[2020.12.30-15.54.02:425][  0]LogUProjectInfo: Found projects:
+[2020.12.30-15.54.02:432][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.30-15.54.02:433][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2020.12.30-15.54.02:721][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.30-15.54.02:748][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.30-15.54.02:748][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.30-15.54.02:812][  0]LogCollectionManager: Loaded 0 collections in 0.002137 seconds
+[2020.12.30-15.54.02:842][  0]LogFileCache: Scanning file cache for directory 'A:/games/MarbelRun/Saved/Collections/' took 0.00s
+[2020.12.30-15.54.02:842][  0]LogFileCache: Scanning file cache for directory 'A:/games/MarbelRun/Content/Developers/manas/Collections/' took 0.00s
+[2020.12.30-15.54.02:842][  0]LogFileCache: Scanning file cache for directory 'A:/games/MarbelRun/Content/Collections/' took 0.00s
+[2020.12.30-15.54.02:842][  0]LogOcInput: OculusInput pre-init called
+[2020.12.30-15.54.02:857][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.30-15.54.02:857][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.30-15.54.02:917][  0]LogEngine: Initializing Engine...
+[2020.12.30-15.54.02:918][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.12.30-15.54.02:919][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.12.30-15.54.02:920][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.30-15.54.03:084][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.30-15.54.03:096][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.30-15.54.03:117][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2020.12.30-15.54.03:122][  0]LogAudio: Display: Audio Device Manager Initialized
+[2020.12.30-15.54.03:122][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2020.12.30-15.54.03:122][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-15.54.03:122][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-15.54.03:122][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-15.54.03:122][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-15.54.03:122][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-15.54.03:122][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-15.54.03:122][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-15.54.03:122][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-15.54.03:123][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-15.54.03:123][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-15.54.03:136][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-15.54.03:136][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-15.54.03:169][  0]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-15.54.03:170][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-15.54.03:174][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-15.54.03:174][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-15.54.03:175][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-15.54.03:175][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-15.54.03:175][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-15.54.03:177][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-15.54.03:177][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-15.54.03:177][  0]LogInit: FAudioDevice initialized.
+[2020.12.30-15.54.03:177][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2020.12.30-15.54.03:177][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.30-15.54.03:397][  0]LogDerivedDataCache: Saved boot cache 0.22s 77MB C:/Users/manas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2020.12.30-15.54.03:402][  0]LogInit: Texture streaming: Enabled
+[2020.12.30-15.54.03:417][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2020.12.30-15.54.03:422][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.30-15.54.03:422][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.30-15.54.03:424][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.30-15.54.03:474][  0]LogInit: Transaction tracking system initialized
+[2020.12.30-15.54.03:500][  0]BlueprintLog: New page: Editor Load
+[2020.12.30-15.54.03:585][  0]LocalizationService: Localization service is disabled
+[2020.12.30-15.54.03:618][  0]TimingProfiler: Initialize
+[2020.12.30-15.54.03:618][  0]TimingProfiler: OnSessionChanged
+[2020.12.30-15.54.03:618][  0]LoadingProfiler: Initialize
+[2020.12.30-15.54.03:618][  0]LoadingProfiler: OnSessionChanged
+[2020.12.30-15.54.03:618][  0]NetworkingProfiler: Initialize
+[2020.12.30-15.54.03:618][  0]NetworkingProfiler: OnSessionChanged
+[2020.12.30-15.54.03:618][  0]MemoryProfiler: Initialize
+[2020.12.30-15.54.03:618][  0]MemoryProfiler: OnSessionChanged
+[2020.12.30-15.54.03:791][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2020.12.30-15.54.03:791][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.30-15.54.03:978][  0]LogFileCache: Scanning file cache for directory 'A:/games/MarbelRun/Content/' took 0.00s
+[2020.12.30-15.54.04:289][  0]SourceControl: Source control is disabled
+[2020.12.30-15.54.04:289][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.513
+[2020.12.30-15.54.04:290][  0]Cmd: MAP LOAD FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.30-15.54.04:290][  0]LightingResults: New page: Lighting Build
+[2020.12.30-15.54.04:291][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-15.54.04:291][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-15.54.04:291][  0]MapCheck: New page: Map Check
+[2020.12.30-15.54.04:291][  0]LightingResults: New page: Lighting Build
+[2020.12.30-15.54.04:310][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.12.30-15.54.05:001][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2020.12.30-15.54.05:003][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.12.30-15.54.05:012][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.30-15.54.05:031][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.12.30-15.54.05:032][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.30-15.54.05:032][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.169ms to complete.
+[2020.12.30-15.54.05:032][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.743
+[2020.12.30-15.54.05:035][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.259
+[2020.12.30-15.54.05:191][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-15.54.05:201][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-15.54.05:211][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-15.54.05:219][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-15.54.05:260][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0124 seconds. Added 3601 classes and 859 folders.
+[2020.12.30-15.54.05:269][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.30-15.54.05:276][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.30-15.54.05:276][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:276][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.30-15.54.05:276][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2020.12.30-15.54.05:279][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.30-15.54.05:279][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:279][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.30-15.54.05:279][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2020.12.30-15.54.05:281][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2020.12.30-15.54.05:281][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:281][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2020.12.30-15.54.05:281][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2020.12.30-15.54.05:283][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-15.54.05:283][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:283][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.30-15.54.05:283][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2020.12.30-15.54.05:285][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.30-15.54.05:285][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:285][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.30-15.54.05:285][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2020.12.30-15.54.05:287][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.30-15.54.05:287][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:287][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.30-15.54.05:287][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2020.12.30-15.54.05:289][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.30-15.54.05:289][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:289][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.30-15.54.05:289][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2020.12.30-15.54.05:291][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.30-15.54.05:291][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:291][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.30-15.54.05:291][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2020.12.30-15.54.05:293][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.30-15.54.05:294][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:294][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.30-15.54.05:294][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2020.12.30-15.54.05:296][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2020.12.30-15.54.05:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2020.12.30-15.54.05:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2020.12.30-15.54.05:298][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2020.12.30-15.54.05:298][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:298][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2020.12.30-15.54.05:298][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2020.12.30-15.54.05:300][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.30-15.54.05:300][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:300][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.30-15.54.05:300][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2020.12.30-15.54.05:304][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-15.54.05:304][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:304][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.30-15.54.05:304][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2020.12.30-15.54.05:306][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.30-15.54.05:306][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:306][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.30-15.54.05:306][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2020.12.30-15.54.05:308][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2020.12.30-15.54.05:308][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:308][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2020.12.30-15.54.05:308][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2020.12.30-15.54.05:310][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.30-15.54.05:310][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.30-15.54.05:310][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2020.12.30-15.54.05:311][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2020.12.30-15.54.05:311][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:311][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2020.12.30-15.54.05:311][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2020.12.30-15.54.05:313][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.30-15.54.05:313][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:313][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.30-15.54.05:313][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2020.12.30-15.54.05:314][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-15.54.05:315][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:315][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.30-15.54.05:315][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2020.12.30-15.54.05:316][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-15.54.05:316][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:316][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.30-15.54.05:317][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2020.12.30-15.54.05:319][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2020.12.30-15.54.05:319][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:319][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2020.12.30-15.54.05:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2020.12.30-15.54.05:321][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2020.12.30-15.54.05:321][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:321][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2020.12.30-15.54.05:321][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2020.12.30-15.54.05:323][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2020.12.30-15.54.05:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2020.12.30-15.54.05:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2020.12.30-15.54.05:325][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2020.12.30-15.54.05:325][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:325][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2020.12.30-15.54.05:325][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2020.12.30-15.54.05:327][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2020.12.30-15.54.05:327][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:327][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2020.12.30-15.54.05:327][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2020.12.30-15.54.05:329][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2020.12.30-15.54.05:329][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2020.12.30-15.54.05:329][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2020.12.30-15.54.05:329][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2020.12.30-15.54.05:470][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.30-15.54.05:476][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2020.12.30-15.54.05:567][  0]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.30-15.54.05:571][  0]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.30-15.54.05:576][  0]LogSlate: Took 0.001313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.30-15.54.05:693][  0]LogRenderer: Reallocating scene render targets to support 1012x392 Format 10 NumSamples 1 (Frame:1).
+[2020.12.30-15.54.06:082][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.30-15.54.06:082][  0]LogLoad: (Engine Initialization) Total time: 10.31 seconds
+[2020.12.30-15.54.06:082][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.30-15.54.06:082][  0]LogInit: First time updating LLM stats...
+[2020.12.30-15.54.06:131][  0]LogAssetRegistry: Asset discovery search completed in 5.6295 seconds
+[2020.12.30-15.54.06:133][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.12.30-15.54.06:189][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.30-15.54.06:780][  2]LogSlate: Took 0.001378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.30-15.54.07:442][  4]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.30-15.54.23:285][519]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1': Can't resolve asset name
+[2020.12.30-15.54.26:014][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Minimal_Default.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-15.54.26:022][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.12.30-15.54.26:048][613]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Minimal_Default56BBD8A946B3915C1F95EFBF88239D0B.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.12.30-15.54.26:071][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Minimal_Default_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" SILENT=true
+[2020.12.30-15.54.26:134][613]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Minimal_Default_BuiltData6CE61977451B871E4C23F3B6FAA60DC0.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2020.12.30-15.54.26:146][613]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-15.54.26:146][613]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2020.12.30-15.54.26:146][613]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2020.12.30-15.54.28:805][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2020.12.30-15.54.29:136][717]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-15.54.29:137][717]Cmd: MAP LOAD FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.30-15.54.29:137][717]LightingResults: New page: Lighting Build
+[2020.12.30-15.54.29:137][717]LoadErrors: New page: Loading map: Level1.umap
+[2020.12.30-15.54.29:139][717]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-15.54.29:139][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-15.54.29:139][717]MapCheck: New page: Map Check
+[2020.12.30-15.54.29:139][717]LightingResults: New page: Lighting Build
+[2020.12.30-15.54.29:145][717]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.30-15.54.29:149][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.12.30-15.54.29:149][717]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1'.
+[2020.12.30-15.54.29:154][717]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.30-15.54.29:154][717]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-15.54.29:164][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.12.30-15.54.29:179][717]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.30-15.54.29:179][717]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2020.12.30-15.54.29:179][717]LogFileHelpers: Loading map 'Level1' took 0.043
+[2020.12.30-15.54.30:079][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-15.54.30:086][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2020.12.30-15.54.30:109][748]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1B4B0A14C47D6BCDBA50BFC83C1CB1093.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-15.54.30:130][748]LogFileHelpers: Saving map 'Level1' took 0.051
+[2020.12.30-15.54.30:141][748]AssetCheck: New page: Asset Save: Level1
+[2020.12.30-15.54.30:141][748]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-15.54.31:115][790]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-15.54.31:128][790]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-15.54.31:129][790]PIE: New page: PIE session: Level1 (Dec 31, 2020, 2:54:31 AM)
+[2020.12.30-15.54.31:131][790]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.12.30-15.54.31:132][790]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.12.30-15.54.31:133][790]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-15.54.31:136][790]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003736s)
+[2020.12.30-15.54.31:138][790]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-15.54.31:138][790]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2020.12.30-15.54.31:138][790]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.005728s)
+[2020.12.30-15.54.31:145][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.12.30-15.54.31:146][790]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2020.12.30-15.54.31:146][790]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-15.54.31:146][790]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-15.54.31:146][790]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-15.54.31:146][790]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-15.54.31:146][790]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-15.54.31:146][790]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-15.54.31:146][790]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-15.54.31:146][790]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-15.54.31:147][790]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-15.54.31:147][790]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-15.54.31:150][790]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-15.54.31:150][790]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-15.54.31:162][790]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-15.54.31:162][790]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-15.54.31:162][790]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-15.54.31:162][790]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-15.54.31:163][790]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-15.54.31:163][790]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-15.54.31:163][790]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-15.54.31:178][790]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-15.54.31:178][790]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-15.54.31:178][790]LogInit: FAudioDevice initialized.
+[2020.12.30-15.54.31:178][790]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level1'.
+[2020.12.30-15.54.31:183][790]LogLoad: Game class is 'GameModeBase'
+[2020.12.30-15.54.31:186][790]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.12.30-21.24.31
+[2020.12.30-15.54.31:187][790]LogWorld: Bringing up level for play took: 0.001181
+[2020.12.30-15.54.31:187][790]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.12.30-15.54.31:194][790]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.12.30-15.54.31:196][790]PIE: Server logged in
+[2020.12.30-15.54.31:197][790]PIE: Play in editor total start time 0.07 seconds.
+[2020.12.30-15.54.43:686][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-15.54.43:686][299]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-15.54.43:686][299]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-15.54.43:686][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-15.54.43:707][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-15.54.43:708][299]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-15.54.43:715][299]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-15.54.43:715][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-15.54.43:716][299]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-15.54.43:735][299]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.12.30-15.54.43:756][300]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.12.30-15.55.17:737][549]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/StarterContent/Maps/Level1.Level1:PersistentLevel.Level1
+[2020.12.30-15.55.18:072][549]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2020.12.30-15.55.19:383][549]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.30-15.55.19:479][550]LogSlate: Took 0.001696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.30-15.55.23:327][712]LogSlate: Window 'Level1' being destroyed
+[2020.12.30-15.55.58:931][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-15.55.58:960][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.12.30-15.55.58:983][889]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level18E650E63401BB28D4268EFBB9FFF9221.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-15.55.59:000][889]LogFileHelpers: Saving map 'Level1' took 0.070
+[2020.12.30-15.55.59:009][889]AssetCheck: New page: Asset Save: Level1
+[2020.12.30-15.55.59:009][889]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.04.42:754][580]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.04.42:779][580]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.30-16.04.42:804][580]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1053014C74325C52D4663769C71BF7D71.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.04.42:821][580]LogFileHelpers: Saving map 'Level1' took 0.067
+[2020.12.30-16.04.42:830][580]AssetCheck: New page: Asset Save: Level1
+[2020.12.30-16.04.42:830][580]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.07.41:201][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.07.41:226][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.12.30-16.07.41:250][ 11]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level15CA79B774515F1A6D043F3B48E62AE41.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.07.41:267][ 11]LogFileHelpers: Saving map 'Level1' took 0.067
+[2020.12.30-16.07.41:276][ 11]AssetCheck: New page: Asset Save: Level1
+[2020.12.30-16.07.41:276][ 11]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.07.42:582][168]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-16.07.42:594][168]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.30-16.07.42:595][168]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2020.12.30-16.07.42:645][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.12.30-16.07.42:645][168]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2020.12.30-16.07.42:645][168]PIE: New page: PIE session: Level1 (Dec 31, 2020, 3:07:42 AM)
+[2020.12.30-16.07.42:645][168]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.07.42:649][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004229s)
+[2020.12.30-16.07.42:651][168]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-16.07.42:651][168]LogPlayLevel: PIE: World Init took: (0.001708s)
+[2020.12.30-16.07.42:651][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.006098s)
+[2020.12.30-16.07.42:675][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.12.30-16.07.42:676][168]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2020.12.30-16.07.42:676][168]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-16.07.42:676][168]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-16.07.42:676][168]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-16.07.42:676][168]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-16.07.42:676][168]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-16.07.42:676][168]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-16.07.42:676][168]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-16.07.42:676][168]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-16.07.42:677][168]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-16.07.42:677][168]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-16.07.42:680][168]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-16.07.42:680][168]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-16.07.42:693][168]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-16.07.42:693][168]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-16.07.42:693][168]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-16.07.42:693][168]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-16.07.42:694][168]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-16.07.42:694][168]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-16.07.42:694][168]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-16.07.42:709][168]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-16.07.42:709][168]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-16.07.42:709][168]LogInit: FAudioDevice initialized.
+[2020.12.30-16.07.42:709][168]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2020.12.30-16.07.42:757][168]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.07.42:758][168]LogLoad: Game class is 'GameModeBase'
+[2020.12.30-16.07.42:759][168]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.12.30-21.37.42
+[2020.12.30-16.07.42:759][168]LogWorld: Bringing up level for play took: 0.001072
+[2020.12.30-16.07.42:760][168]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2020.12.30-16.07.42:764][168]PIE: Server logged in
+[2020.12.30-16.07.42:764][168]PIE: Play in editor total start time 0.171 seconds.
+[2020.12.30-16.07.42:828][169]LogRenderer: Reallocating scene render targets to support 1280x696 Format 10 NumSamples 1 (Frame:1).
+[2020.12.30-16.07.48:049][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.07.48:049][282]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.07.48:049][282]LogSlate: Window 'MarbelRun Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2020.12.30-16.07.48:145][282]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-16.07.48:145][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.07.48:165][282]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-16.07.48:170][282]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.07.48:194][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.07.48:195][282]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.07.48:217][282]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.12.30-16.07.48:241][283]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2020.12.30-16.08.44:641][295]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-16.08.44:654][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-16.08.44:654][295]PIE: New page: PIE session: Level1 (Dec 31, 2020, 3:08:44 AM)
+[2020.12.30-16.08.44:654][295]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.08.44:658][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003994s)
+[2020.12.30-16.08.44:660][295]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-16.08.44:660][295]LogPlayLevel: PIE: World Init took: (0.001742s)
+[2020.12.30-16.08.44:660][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.005891s)
+[2020.12.30-16.08.44:684][295]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.12.30-16.08.44:685][295]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2020.12.30-16.08.44:685][295]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-16.08.44:685][295]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-16.08.44:685][295]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-16.08.44:685][295]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-16.08.44:685][295]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-16.08.44:685][295]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-16.08.44:685][295]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-16.08.44:685][295]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-16.08.44:686][295]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-16.08.44:686][295]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-16.08.44:688][295]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-16.08.44:688][295]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-16.08.44:700][295]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-16.08.44:700][295]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-16.08.44:701][295]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-16.08.44:701][295]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-16.08.44:701][295]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-16.08.44:701][295]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-16.08.44:701][295]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-16.08.44:716][295]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-16.08.44:716][295]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-16.08.44:716][295]LogInit: FAudioDevice initialized.
+[2020.12.30-16.08.44:716][295]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2020.12.30-16.08.44:753][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.08.44:753][295]LogLoad: Game class is 'GameModeBase'
+[2020.12.30-16.08.44:754][295]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.12.30-21.38.44
+[2020.12.30-16.08.44:754][295]LogWorld: Bringing up level for play took: 0.000947
+[2020.12.30-16.08.44:755][295]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.12.30-16.08.44:759][295]PIE: Server logged in
+[2020.12.30-16.08.44:760][295]PIE: Play in editor total start time 0.106 seconds.
+[2020.12.30-16.08.53:698][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.08.53:698][490]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.08.53:699][490]LogSlate: Window 'MarbelRun Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2020.12.30-16.08.53:786][490]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-16.08.53:786][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.08.53:801][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-16.08.53:806][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.08.53:830][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.08.53:831][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.08.53:852][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.12.30-16.08.53:874][491]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.12.30-16.10.10:681][800]LogEditorTransaction: Undo Move Nodes
+[2020.12.30-16.10.24:498][392]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.10.24:522][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.12.30-16.10.24:548][392]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level17591DFB4422FBC33C02077A3927B5214.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.10.24:565][392]LogFileHelpers: Saving map 'Level1' took 0.067
+[2020.12.30-16.10.24:574][392]AssetCheck: New page: Asset Save: Level1
+[2020.12.30-16.10.24:574][392]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.10.25:973][560]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-16.10.25:985][560]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.30-16.10.25:986][560]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2020.12.30-16.10.26:036][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2020.12.30-16.10.26:037][560]LogPlayLevel: PlayLevel: Blueprint regeneration took 51 ms (1 blueprints)
+[2020.12.30-16.10.26:037][560]PIE: New page: PIE session: Level1 (Dec 31, 2020, 3:10:26 AM)
+[2020.12.30-16.10.26:037][560]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.10.26:041][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003917s)
+[2020.12.30-16.10.26:042][560]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-16.10.26:043][560]LogPlayLevel: PIE: World Init took: (0.001766s)
+[2020.12.30-16.10.26:043][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.005825s)
+[2020.12.30-16.10.26:066][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.12.30-16.10.26:067][560]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2020.12.30-16.10.26:067][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-16.10.26:067][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-16.10.26:067][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-16.10.26:067][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-16.10.26:067][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-16.10.26:067][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-16.10.26:067][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-16.10.26:067][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-16.10.26:067][560]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-16.10.26:067][560]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-16.10.26:070][560]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-16.10.26:070][560]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-16.10.26:082][560]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-16.10.26:082][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-16.10.26:082][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-16.10.26:082][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-16.10.26:082][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-16.10.26:083][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-16.10.26:083][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-16.10.26:097][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-16.10.26:097][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-16.10.26:097][560]LogInit: FAudioDevice initialized.
+[2020.12.30-16.10.26:098][560]LogAudio: Display: Audio Device (ID: 5) registered with world 'Level1'.
+[2020.12.30-16.10.26:152][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.10.26:152][560]LogLoad: Game class is 'GameModeBase'
+[2020.12.30-16.10.26:153][560]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.12.30-21.40.26
+[2020.12.30-16.10.26:153][560]LogWorld: Bringing up level for play took: 0.000938
+[2020.12.30-16.10.26:154][560]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2020.12.30-16.10.26:157][560]PIE: Server logged in
+[2020.12.30-16.10.26:157][560]PIE: Play in editor total start time 0.173 seconds.
+[2020.12.30-16.10.33:568][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.10.33:569][724]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.10.33:570][724]LogSlate: Window 'MarbelRun Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2020.12.30-16.10.33:656][724]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-16.10.33:657][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.10.33:680][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-16.10.33:686][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.10.33:712][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.10.33:714][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.10.33:735][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2020.12.30-16.10.33:758][725]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.12.30-16.11.12:747][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.11.12:771][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.12.30-16.11.12:798][241]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1D4CDA4A04F0DE34BB31F9BAD146EB9C7.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.11.12:814][241]LogFileHelpers: Saving map 'Level1' took 0.068
+[2020.12.30-16.11.12:823][241]AssetCheck: New page: Asset Save: Level1
+[2020.12.30-16.11.12:823][241]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.11.39:251][912]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-16.11.39:262][912]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.30-16.11.39:263][912]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2020.12.30-16.11.39:315][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.12.30-16.11.39:315][912]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2020.12.30-16.11.39:315][912]PIE: New page: PIE session: Level1 (Dec 31, 2020, 3:11:39 AM)
+[2020.12.30-16.11.39:315][912]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.11.39:320][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004050s)
+[2020.12.30-16.11.39:321][912]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-16.11.39:321][912]LogPlayLevel: PIE: World Init took: (0.001751s)
+[2020.12.30-16.11.39:321][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.006117s)
+[2020.12.30-16.11.39:345][912]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.12.30-16.11.39:346][912]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2020.12.30-16.11.39:346][912]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-16.11.39:346][912]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-16.11.39:346][912]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-16.11.39:346][912]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-16.11.39:346][912]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-16.11.39:346][912]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-16.11.39:346][912]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-16.11.39:346][912]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-16.11.39:346][912]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-16.11.39:346][912]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-16.11.39:349][912]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-16.11.39:349][912]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-16.11.39:360][912]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-16.11.39:361][912]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-16.11.39:361][912]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-16.11.39:361][912]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-16.11.39:361][912]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-16.11.39:361][912]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-16.11.39:361][912]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-16.11.39:376][912]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-16.11.39:376][912]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-16.11.39:376][912]LogInit: FAudioDevice initialized.
+[2020.12.30-16.11.39:376][912]LogAudio: Display: Audio Device (ID: 6) registered with world 'Level1'.
+[2020.12.30-16.11.39:421][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.11.39:421][912]LogLoad: Game class is 'GameModeBase'
+[2020.12.30-16.11.39:422][912]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.12.30-21.41.39
+[2020.12.30-16.11.39:422][912]LogWorld: Bringing up level for play took: 0.000912
+[2020.12.30-16.11.39:422][912]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.12.30-16.11.39:426][912]PIE: Server logged in
+[2020.12.30-16.11.39:426][912]PIE: Play in editor total start time 0.165 seconds.
+[2020.12.30-16.11.54:036][240]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.11.54:036][240]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.11.54:037][240]LogSlate: Window 'MarbelRun Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2020.12.30-16.11.54:119][240]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-16.11.54:120][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.11.54:130][240]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-16.11.54:135][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.11.54:159][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.11.54:160][240]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.11.54:181][240]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.12.30-16.11.54:204][241]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.12.30-16.11.59:154][816]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2020.12.30-16.11.59:154][816]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2020.12.30-16.11.59:982][913]LogUObjectGlobals: Warning: Failed to find object 'Object None.MyBlueprintPanel'
+[2020.12.30-16.12.01:353][ 75]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2020.12.30-16.12.03:862][310]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2020.12.30-16.12.03:862][310]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2020.12.30-16.12.06:193][586]LogSlate: Window 'Tutorials' being destroyed
+[2020.12.30-16.12.06:201][586]LogSlate: Window 'Tutorials' being destroyed
+[2020.12.30-16.12.16:848][826]LogSlate: Window 'Tutorials' being destroyed
+[2020.12.30-16.12.16:851][826]LogSlate: Window 'Tutorials' being destroyed
+[2020.12.30-16.17.22:739][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.17.22:767][379]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.12.30-16.17.22:794][379]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level138985DD64D037A73DEAA2B9D6A84620C.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.17.22:811][379]LogFileHelpers: Saving map 'Level1' took 0.073
+[2020.12.30-16.17.22:821][379]AssetCheck: New page: Asset Save: Level1
+[2020.12.30-16.17.22:821][379]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.17.37:033][653]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-16.17.37:047][653]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.30-16.17.37:047][653]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2020.12.30-16.17.37:103][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.12.30-16.17.37:103][653]LogPlayLevel: PlayLevel: Blueprint regeneration took 56 ms (1 blueprints)
+[2020.12.30-16.17.37:103][653]PIE: New page: PIE session: Level1 (Dec 31, 2020, 3:17:37 AM)
+[2020.12.30-16.17.37:103][653]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.17.37:107][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004166s)
+[2020.12.30-16.17.37:109][653]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-16.17.37:109][653]LogPlayLevel: PIE: World Init took: (0.001782s)
+[2020.12.30-16.17.37:109][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.006106s)
+[2020.12.30-16.17.37:135][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.12.30-16.17.37:136][653]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2020.12.30-16.17.37:136][653]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-16.17.37:136][653]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-16.17.37:136][653]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-16.17.37:136][653]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-16.17.37:136][653]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-16.17.37:136][653]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-16.17.37:136][653]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-16.17.37:136][653]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-16.17.37:137][653]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-16.17.37:137][653]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-16.17.37:139][653]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-16.17.37:140][653]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-16.17.37:152][653]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-16.17.37:153][653]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-16.17.37:153][653]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-16.17.37:153][653]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-16.17.37:153][653]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-16.17.37:154][653]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-16.17.37:154][653]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-16.17.37:168][653]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-16.17.37:168][653]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-16.17.37:168][653]LogInit: FAudioDevice initialized.
+[2020.12.30-16.17.37:168][653]LogAudio: Display: Audio Device (ID: 7) registered with world 'Level1'.
+[2020.12.30-16.17.37:221][653]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.17.37:221][653]LogLoad: Game class is 'GameModeBase'
+[2020.12.30-16.17.37:222][653]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.12.30-21.47.37
+[2020.12.30-16.17.37:223][653]LogWorld: Bringing up level for play took: 0.000980
+[2020.12.30-16.17.37:223][653]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.12.30-16.17.37:226][653]PIE: Server logged in
+[2020.12.30-16.17.37:227][653]PIE: Play in editor total start time 0.181 seconds.
+[2020.12.30-16.17.51:654][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.17.51:654][972]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.17.51:655][972]LogSlate: Window 'MarbelRun Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2020.12.30-16.17.51:737][972]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-16.17.51:737][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.17.51:744][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-16.17.51:749][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.17.51:774][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.30-16.17.51:774][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.17.51:775][972]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.17.51:797][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.12.30-16.17.51:823][973]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.12.30-16.19.47:908][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.12.30-16.19.53:057][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.19.53:084][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.12.30-16.19.53:111][ 83]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1650B1286407B44BC2DC51690163E334F.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.19.53:130][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.19.53:155][ 83]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltData09863F2849D336B594A69CAA3A35AE00.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.19.53:165][ 83]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.19.53:165][ 83]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.19.53:165][ 83]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.20.18:521][  5]LogSlate: Window 'Content Browser' being destroyed
+[2020.12.30-16.21.05:066][ 55]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.30-16.22.06:647][ 48]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.24.53:308][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.24.53:336][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.12.30-16.24.53:366][172]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level12C55D82C4EA96EA5B9C9808FFA403E73.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.24.53:386][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.24.53:406][172]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltDataCDA09F1643EBE7488EA93180771BE901.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.24.53:418][172]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.24.53:418][172]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.24.53:418][172]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.26.43:816][352]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.27.18:222][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.27.22:135][192]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.27.30:892][454]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.30-16.27.31:495][479]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.27.34:594][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.27.37:636][734]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.27.47:443][ 10]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.30-16.27.53:171][247]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.27.58:755][468]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.28.00:310][530]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.30-16.28.06:748][800]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2020.12.30-16.28.17:198][115]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.28.59:845][745]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.29.00:635][777]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.29.01:605][816]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.29.10:881][190]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.10:881][190]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.29.17:570][454]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.17:570][454]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.17:843][459]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.17:843][459]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.18:329][475]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.18:329][475]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.18:781][493]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.18:781][493]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.19:265][511]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.19:265][511]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.30-16.29.19:681][527]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.19:681][527]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.20:113][544]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.20:113][544]LogEditorTransaction: Undo Edit X
+[2020.12.30-16.29.26:237][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.29.32:889][ 55]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.32:889][ 55]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.33:324][ 65]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.33:324][ 65]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.33:901][ 88]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.33:901][ 88]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.34:547][115]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.34:547][115]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.34:972][133]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.34:972][133]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.35:311][147]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.35:311][147]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.35:789][167]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.35:790][167]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.36:654][201]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.36:654][201]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.30-16.29.37:215][224]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.37:215][224]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.37:609][240]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.37:609][240]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.38:057][259]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.38:057][259]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.29.38:788][290]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.38:788][290]LogEditorTransaction: Undo Edit Z
+[2020.12.30-16.29.55:533][951]Cmd: TRANSACTION UNDO
+[2020.12.30-16.29.55:533][951]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.29.57:960][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.29.57:989][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.12.30-16.29.58:019][ 41]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1F08C48DD489CD82188DA78BC81490731.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.29.58:039][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.29.58:060][ 41]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltData71C566D04BA870F2BDA4BC9299BF9D8F.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.29.58:071][ 41]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.29.58:071][ 41]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.29.58:071][ 41]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.30.24:526][572]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.30-16.32.46:556][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.32.46:581][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.12.30-16.32.46:612][822]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level195260ED54F28C3A4439E5A8A5D628E17.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.32.46:631][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.32.46:652][822]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltDataA3089D0243B464313A0D0395E9590F00.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.32.46:663][822]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.32.46:663][822]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.32.46:663][822]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.34.30:118][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.34.41:272][640]Cmd: TRANSACTION UNDO
+[2020.12.30-16.34.41:272][640]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.34.49:815][930]Cmd: TRANSACTION UNDO
+[2020.12.30-16.34.49:815][930]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.35.03:496][277]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.35.06:751][407]Cmd: TRANSACTION UNDO
+[2020.12.30-16.35.06:751][407]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.30-16.35.07:143][416]Cmd: TRANSACTION UNDO
+[2020.12.30-16.35.07:143][416]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.35.07:652][436]Cmd: TRANSACTION UNDO
+[2020.12.30-16.35.07:652][436]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.35.17:887][877]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.12.30-16.35.18:549][904]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.12.30-16.35.20:696][995]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.12.30-16.35.21:253][ 18]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush2)
+[2020.12.30-16.35.23:126][ 95]Cmd: TRANSACTION UNDO
+[2020.12.30-16.35.23:126][ 95]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.35.41:230][864]Cmd: TRANSACTION UNDO
+[2020.12.30-16.35.41:230][864]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.35.50:909][266]Cmd: TRANSACTION UNDO
+[2020.12.30-16.35.50:909][266]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.35.53:098][349]Cmd: TRANSACTION UNDO
+[2020.12.30-16.35.53:098][349]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.37.04:420][126]Cmd: TRANSACTION UNDO
+[2020.12.30-16.37.04:420][126]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.37.12:837][546]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.37.43:864][557]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.38.24:506][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.38.24:535][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.12.30-16.38.24:565][139]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1C041BAC246F515D05E7E23ACCB6FA948.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.38.24:584][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.38.24:605][139]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltData09E812B3426C46CC94FC2D97575BAB50.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.38.24:616][139]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.38.24:616][139]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.38.24:616][139]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.39.02:241][526]Cmd: POLY SELECT ADJACENT ALL
+[2020.12.30-16.39.56:573][177]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.40.17:159][848]Cmd: TRANSACTION UNDO
+[2020.12.30-16.40.17:159][848]LogEditorTransaction: Undo Modifier [Edit]
+[2020.12.30-16.40.17:710][864]Cmd: TRANSACTION UNDO
+[2020.12.30-16.40.17:711][864]LogEditorTransaction: Undo Set Material
+[2020.12.30-16.40.19:167][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.40.19:193][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.12.30-16.40.19:224][930]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level13541A8DE4506EDE6031B0382B0685655.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.40.19:242][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.40.19:262][930]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltData65851DC648C6EC427426EFAFBA7C7CEB.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.40.19:275][930]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.40.19:275][930]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.40.19:275][930]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.40.19:793][956]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.40.52:233][624]Cmd: POLY SELECT ADJACENT ALL
+[2020.12.30-16.41.10:979][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.41.17:053][225]Cmd: POLY SELECT ADJACENT ALL
+[2020.12.30-16.41.40:042][687]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.41.54:375][863]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.30-16.41.59:312][974]Cmd: TRANSACTION UNDO
+[2020.12.30-16.41.59:312][974]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.42.33:490][491]Cmd: TRANSACTION UNDO
+[2020.12.30-16.42.33:490][491]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.42.33:898][500]Cmd: TRANSACTION UNDO
+[2020.12.30-16.42.33:898][500]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.42.42:478][850]Cmd: TRANSACTION UNDO
+[2020.12.30-16.42.42:478][850]LogEditorTransaction: Undo Edit Y
+[2020.12.30-16.43.13:961][ 96]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.43.16:662][198]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush3)
+[2020.12.30-16.43.59:684][223]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.44.34:726][908]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.44.40:556][179]Cmd: TRANSACTION UNDO
+[2020.12.30-16.44.40:556][179]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.44.41:479][211]Cmd: TRANSACTION UNDO
+[2020.12.30-16.44.41:479][211]LogEditorTransaction: Undo Modifier [Edit]
+[2020.12.30-16.44.42:167][241]Cmd: TRANSACTION UNDO
+[2020.12.30-16.44.42:167][241]LogEditorTransaction: Undo Select Brush Surface
+[2020.12.30-16.44.43:829][313]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.44.51:756][697]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.45.13:734][133]Cmd: TRANSACTION UNDO
+[2020.12.30-16.45.13:734][133]LogEditorTransaction: Undo Modifier [Edit]
+[2020.12.30-16.45.14:402][155]Cmd: TRANSACTION UNDO
+[2020.12.30-16.45.14:402][155]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.45.16:772][265]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.45.21:887][512]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.45.33:905][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.46.00:818][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.46.10:504][521]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.46.21:088][ 18]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.46.34:116][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.47.03:296][503]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.48.06:611][955]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.48.07:488][995]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.48.16:559][358]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.12.30-16.48.18:679][444]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.48.28:471][831]Cmd: TRANSACTION UNDO
+[2020.12.30-16.48.28:471][831]LogEditorTransaction: Undo Edit X
+[2020.12.30-16.49.00:765][184]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.49.11:802][508]Cmd: POLY SELECT ADJACENT ALL
+[2020.12.30-16.49.20:970][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse" FILE="A:/games/MarbelRun/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" SILENT=true
+[2020.12.30-16.49.20:988][744]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/M_Tech_Hex_Tile_PulseBC0BBF7D40FF8E2401960695014C9AB3.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset'
+[2020.12.30-16.49.21:008][744]AssetCheck: New page: Asset Save: M_Tech_Hex_Tile_Pulse
+[2020.12.30-16.49.21:008][744]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.M_Tech_Hex_Tile_Pulse
+[2020.12.30-16.49.22:063][793]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.49.22:149][794]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.12.30-16.49.23:211][839]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.12.30-16.49.27:597][  7]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.49.36:708][354]Cmd: TRANSACTION UNDO
+[2020.12.30-16.49.36:708][354]LogEditorTransaction: Undo Set Material
+[2020.12.30-16.49.39:106][423]Cmd: POLY SELECT ADJACENT ALL
+[2020.12.30-16.49.55:373][ 95]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.50.08:988][711]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.50.14:055][942]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.50.17:530][ 76]Cmd: TRANSACTION UNDO
+[2020.12.30-16.50.17:530][ 76]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.50.17:582][ 76]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_283' invalid (168 verts, 0 indices).
+[2020.12.30-16.50.17:582][ 76]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_283.BodySetup_0 when we are unable to.
+[2020.12.30-16.50.17:582][ 76]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_284' invalid (168 verts, 0 indices).
+[2020.12.30-16.50.17:582][ 76]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_284.BodySetup_0 when we are unable to.
+[2020.12.30-16.50.17:583][ 76]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_285' invalid (168 verts, 0 indices).
+[2020.12.30-16.50.17:583][ 76]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_285.BodySetup_0 when we are unable to.
+[2020.12.30-16.50.17:583][ 76]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_286' invalid (168 verts, 0 indices).
+[2020.12.30-16.50.17:583][ 76]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_286.BodySetup_0 when we are unable to.
+[2020.12.30-16.50.17:583][ 76]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_287' invalid (168 verts, 0 indices).
+[2020.12.30-16.50.17:583][ 76]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Level1.Level1:PersistentLevel.ModelComponent_287.BodySetup_0 when we are unable to.
+[2020.12.30-16.50.18:899][122]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.50.29:605][544]Cmd: TRANSACTION UNDO
+[2020.12.30-16.50.29:605][544]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.50.36:543][817]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.50.37:879][867]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.50.49:994][341]Cmd: TRANSACTION UNDO
+[2020.12.30-16.50.49:994][341]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.50.55:416][550]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.50.57:349][622]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.51.04:686][916]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.51.21:738][663]LogGeometryMode: Warning: Unable to find BoxBrush6 Brush(s) in new BSP
+[2020.12.30-16.51.21:738][663]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.12.30-16.51.44:493][631]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.52.02:821][996]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.52.11:361][256]Cmd: TRANSACTION UNDO
+[2020.12.30-16.52.11:361][256]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.52.12:187][281]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.52.40:157][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.12.30-16.52.40:161][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.12.30-16.52.40:195][618]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_Auto17760296D49FFC1FF0EC076901C8BA865.tmp' to 'A:/games/MarbelRun/Saved/Autosaves/Game/StarterContent/Maps/Level1_Auto1.umap'
+[2020.12.30-16.52.40:197][618]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Level1' took 0.070
+[2020.12.30-16.52.40:197][618]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2020.12.30-16.52.42:016][687]Cmd: TRANSACTION UNDO
+[2020.12.30-16.52.42:016][687]LogEditorTransaction: Undo Create Actors
+[2020.12.30-16.52.49:852][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.12.30-16.52.55:607][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.52.59:447][317]Cmd: TRANSACTION UNDO
+[2020.12.30-16.52.59:448][317]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.53.05:679][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.12.30-16.53.24:373][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.53.24:396][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.12.30-16.53.24:433][ 10]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1373F7AD24DFBA095F11C44AA15765933.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.53.24:455][ 10]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.53.24:475][ 10]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltData883DE81D4D9C52A38317CBB78CBB3F0C.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.53.24:486][ 10]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.53.24:486][ 10]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.53.24:486][ 10]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.53.26:440][ 92]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.53.28:303][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.12.30-16.53.29:448][208]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.54.12:526][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ball)
+[2020.12.30-16.54.23:136][219]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.30-16.54.23:148][219]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.30-16.54.23:148][219]PIE: New page: PIE session: Level1 (Dec 31, 2020, 3:54:23 AM)
+[2020.12.30-16.54.23:183][219]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.54.23:192][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008727s)
+[2020.12.30-16.54.23:194][219]LogAIModule: Creating AISystem for world Level1
+[2020.12.30-16.54.23:194][219]LogPlayLevel: PIE: World Init took: (0.001764s)
+[2020.12.30-16.54.23:194][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Level1.Level1 to /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 (0.010708s)
+[2020.12.30-16.54.23:222][219]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.12.30-16.54.23:224][219]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2020.12.30-16.54.23:224][219]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.30-16.54.23:224][219]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.30-16.54.23:224][219]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.30-16.54.23:224][219]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.30-16.54.23:224][219]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.30-16.54.23:224][219]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.30-16.54.23:224][219]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.30-16.54.23:224][219]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.30-16.54.23:225][219]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.30-16.54.23:225][219]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.30-16.54.23:228][219]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.30-16.54.23:228][219]LogAudioMixer: Display: 1: FrontRight
+[2020.12.30-16.54.23:240][219]LogAudioMixer: Display: Using Audio Device Speakers (3- High Definition Audio Device)
+[2020.12.30-16.54.23:240][219]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.30-16.54.23:240][219]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.30-16.54.23:240][219]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.30-16.54.23:241][219]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.30-16.54.23:241][219]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2020.12.30-16.54.23:241][219]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2020.12.30-16.54.23:242][219]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2020.12.30-16.54.23:242][219]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2020.12.30-16.54.23:242][219]LogInit: FAudioDevice initialized.
+[2020.12.30-16.54.23:242][219]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2020.12.30-16.54.23:262][219]LogLoad: Game class is 'GameModeBase'
+[2020.12.30-16.54.23:264][219]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.12.30-22.24.23
+[2020.12.30-16.54.23:264][219]LogWorld: Bringing up level for play took: 0.001318
+[2020.12.30-16.54.23:265][219]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.12.30-16.54.23:267][219]PIE: Server logged in
+[2020.12.30-16.54.23:268][219]PIE: Play in editor total start time 0.122 seconds.
+[2020.12.30-16.54.27:596][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.54.27:596][418]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Level1
+[2020.12.30-16.54.27:596][418]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2020.12.30-16.54.27:596][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.54.27:616][418]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.30-16.54.27:639][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.30-16.54.27:662][418]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2020.12.30-16.54.27:662][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.54.27:663][418]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2020.12.30-16.54.27:680][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.30-16.54.27:683][418]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.12.30-16.54.27:724][419]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.12.30-16.54.31:375][571]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.54.41:030][796]Cmd: TRANSACTION UNDO
+[2020.12.30-16.54.41:030][796]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.54.43:668][896]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.54.46:654][ 10]Cmd: TRANSACTION UNDO
+[2020.12.30-16.54.46:654][ 10]LogEditorTransaction: Undo Move Actors
+[2020.12.30-16.54.51:433][189]Cmd: DELETE
+[2020.12.30-16.54.51:433][189]Cmd: ACTOR DELETE
+[2020.12.30-16.54.51:441][189]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2020.12.30-16.54.51:493][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.12.30-16.54.51:494][189]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2020.12.30-16.54.52:996][260]Cmd: TRANSACTION UNDO
+[2020.12.30-16.54.52:996][260]LogEditorTransaction: Undo Delete Actors
+[2020.12.30-16.54.55:697][358]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.54.57:325][435]LogEditorViewport: Clicking Background
+[2020.12.30-16.55.03:565][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.55.03:590][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.12.30-16.55.03:623][745]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level13F9F488143A8CCD890A000AD16DBFE63.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.55.03:641][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.55.03:662][745]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltData2369081240EB64D9FA64728FEAC94B4A.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.55.03:672][745]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.55.03:672][745]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.55.03:672][745]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
+[2020.12.30-16.55.04:558][791]LogEditorViewport: Clicking Background
+[2020.12.30-16.55.07:529][940]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.55.07:529][940]Can't find target actor or component.
+[2020.12.30-16.55.07:949][961]LogEditorViewport: Clicking Background
+[2020.12.30-16.55.08:194][973]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.55.08:194][973]Can't find target actor or component.
+[2020.12.30-16.55.13:809][220]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.55.25:863][721]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.55.55:095][176]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2020.12.30-16.55.56:596][240]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.12.30-16.56.19:065][814]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.56.21:254][896]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.56.21:949][922]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.56.22:540][944]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.56.23:185][968]Cmd: TRANSACTION UNDO
+[2020.12.30-16.56.23:185][968]LogEditorTransaction: Undo Clicking on Actors
+[2020.12.30-16.56.32:127][323]Cmd: TRANSACTION UNDO
+[2020.12.30-16.56.32:128][323]LogEditorTransaction: Undo Edit X
+[2020.12.30-16.56.39:801][627]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.12.30-16.56.56:120][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.30-16.56.56:147][708]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.12.30-16.56.56:186][708]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level119C602BB48295D0611F13AADC46D672C.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1.umap'
+[2020.12.30-16.56.56:208][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/Level1_BuiltData" FILE="A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset" SILENT=true
+[2020.12.30-16.56.56:229][708]LogSavePackage: Moving 'A:/games/MarbelRun/Saved/Level1_BuiltData1D2B35F24B8DD8AB3F99768995BE9334.tmp' to 'A:/games/MarbelRun/Content/StarterContent/Maps/Level1_BuiltData.uasset'
+[2020.12.30-16.56.56:240][708]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.30-16.56.56:241][708]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Level1_BuiltData.Level1_BuiltData
+[2020.12.30-16.56.56:241][708]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Level1.Level1
